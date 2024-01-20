@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Eddie! 👋
 
 ## About Me
 - 👀 I’m interested in Web Development, Software Engineering, AI/Machine Learning
