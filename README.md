@@ -1,4 +1,4 @@
-# Hi there, I'm Eddie! 👋
+# Hi there, I'm Eddie Yang! 👋
 
 ## About Me
 - 👀 I’m interested in Web Development, Software Engineering, AI/Machine Learning
