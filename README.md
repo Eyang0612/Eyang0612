@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in Web Development, Software Engineering, AI/Machine Learning
-- 🌱 I’m currently learning React, Next.js, TensorFlow, Pytorch
+- 🌱 I’m currently learning React, Next.js, SQL, and TypeScript
 - 🎇 In my free time, I enjoy listening to music, going to the gym, and watch anime
 - 📫 How to reach me: eddieyang0612@gmail.com
 
