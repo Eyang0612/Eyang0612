@@ -1,7 +1,7 @@
 # Hi there, I'm Eddie Yang! 👋
 
 ## About Me
-- 👀 I’m interested in Web Development, Software Engineering, AI/Machine Learning
+- 👀 I’m interested in Cloud/DevOps, Software Engineering, AI/Machine Learning
 - 🌱 I’m currently learning Terraform, Ansible, and other DevOps/IaC technologies
 - 🎇 In my free time, I enjoy listening to music, going to the gym, and watch anime
 - 📫 How to reach me: eddieyang0612@gmail.com
